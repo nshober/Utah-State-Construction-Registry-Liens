@@ -1,0 +1,921 @@
+<table id="searchResults" class="table-scroll horizontal"><thead><tr><th>Entry #</th><th id="th-noticeType" class="sort">Notice Type</th><th id="th-filingDate" class="sort">Filing Date</th><th>County/Parcel</th><th>Address/Legal Description</th><th id="th-contractorName" class="sort">Contractor</th><th id="th-contracteeName" class="sort">Contracted By</th><th id="th-ownerName" class="sort">Owner</th><th id="th-filerName" class="sort">Filer</th><th>Action</th></tr></thead><tbody><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10779611&amp;filed=true">10779611</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>12/31/2023</td><td><i>Utah</i><br>240040001</td><td>
+				364 West 3200 North<br>
+				Spanish Fork, UT 84660
+				<br>Utah County Emergency Management Building AC
+			</td><td>B H, Inc.</td><td>Cutler Electric, Inc.</td><td>Utah County</td><td>Utah-Yamas Controls</td><td><select id="10779611" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10722209&amp;filed=true">10722209</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>11/29/2023</td><td><i>Utah</i><br>240040001, 240030087</td><td>
+				3450 N 600 W <br>
+				SPANISH FORK, UT 84660
+				<br>UCPW - EMERGENCY MANAGEMENT BUILDING 
+			</td><td>B H, INC.,</td><td>B H, INC., </td><td>UTAH COUNTY GOVERNMENT</td><td>KELLER NORTH AMERICA, INC.  </td><td><select id="10722209" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10713203&amp;filed=true">10713203</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>11/22/2023</td><td><i>Emery</i><br>01-0150-0005</td><td>
+				1175 E. 2000 S.<br>
+				Vernal, UT 84078
+				
+			</td><td>B H, Inc.</td><td>B H Inc. dba BHI</td><td>Love's Travel Stops and Country Stores, Inc.</td><td>Utah Complete Landscaping LLC</td><td><select id="10713203" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10689657&amp;filed=true">10689657</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>11/10/2023</td><td><i>Emery</i><br>01-0150-0005</td><td>
+				1615 W MAIN ST, <br>
+				GREEN RIVER, UT 84525
+				<br>LOVE’S GREEN RIVER EMPLOYEE HOUSING
+			</td><td>B H, INC. </td><td>DUSTINS PERFECTION PAINTING</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>The Sherwin-Williams Company</td><td><select id="10689657" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10679909&amp;filed=true">10679909</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>11/07/2023</td><td><i>Utah</i><br>240040001, 240030087</td><td>
+				3450 N 600 W <br>
+				SPANISH FORK, UT 84660
+				<br>UCPW EMERGENCY MANAGEMENT BUILDING
+			</td><td>B H, INC., A UTAH CORPORATION DOING BUSINESS AS BHI (“BHI”)</td><td>B H, INC., A UTAH CORPORATION DOING BUSINESS AS BHI (“BHI”) </td><td>UTAH COUNTY GOVERNMENT</td><td>KELLER NORTH AMERICA, INC.  </td><td><select id="10679909" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10658359&amp;filed=true">10658359</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>10/27/2023</td><td><i>Uintah</i><br>000000000</td><td>
+				8750 N. Hwy 191,<br>
+				Vernal, UT 84078
+				<br>Red Fleet State Park Campground
+			</td><td>B H, Inc. dba BHI</td><td>B H, Inc. dba BHI</td><td>DFCM</td><td>Cannon Sales, Inc.</td><td><select id="10658359" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10651895&amp;filed=true">10651895</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>10/24/2023</td><td><i>Wasatch</i><br>00-0021-8358</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>BHI Inc.</td><td>JORDANELLE REF ACQUISITION LLC</td><td>Wheeler Machinery Co.</td><td><select id="10651895" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10644377&amp;filed=true">10644377</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>10/20/2023</td><td><i>Washington</i><br>I-6-2-4-142-BD1, I-6-2-4-145-BD1, ...</td><td>
+				SNOW CANYON PKWY AND SPLIT ROCK <br>
+				IVINS, UT 84738
+				<br>GOLF VILLAGE 3
+			</td><td>B H, INC. </td><td>ENLAW, LLC</td><td>ENLAW, LLC</td><td>B H, INC. </td><td><select id="10644377" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10617377&amp;filed=true">10617377</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>10/12/2023</td><td><i>Uintah</i><br>050260014</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>Vernal City</td><td>VERNAL CITY </td><td>Codale Electric</td><td><select id="10617377" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10606099&amp;filed=true">10606099</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>10/04/2023</td><td><i>Millard</i><br>170754</td><td>
+				9650 NORTH 540 EAST <br>
+				Delta, UT 84624
+				<br>SAWTOOTH CAVERNS, LLC
+			</td><td>B H, INC. </td><td>UNITED FENCE COMPANY</td><td>UTAH STATE OF</td><td>American Fence Company</td><td><select id="10606099" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567601&amp;filed=true">10567601</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260014</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>JURASSIC HEIGHTS LLC</td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567601" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567599&amp;filed=true">10567599</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260026</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>JURASSIC HEIGHTS LLC</td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567599" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567597&amp;filed=true">10567597</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260017</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>JURASSIC HEIGHTS LLC</td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567597" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567595&amp;filed=true">10567595</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260014</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>VERNAL CITY </td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567595" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567593&amp;filed=true">10567593</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260026</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>VERNAL CITY </td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567593" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567591&amp;filed=true">10567591</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260017</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>VERNAL CITY </td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567591" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567589&amp;filed=true">10567589</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260027</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>VERNAL CITY </td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567589" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567587&amp;filed=true">10567587</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260029</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>VERNAL CITY </td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567587" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10567585&amp;filed=true">10567585</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/18/2023</td><td><i>Uintah</i><br>050260020</td><td>
+				100 WEST 100 SOUTH<br>
+				VERNAL, UT 84078
+				<br>ZIONS BLOCK REMODEL   
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>VERNAL CITY </td><td>OLDCASTLE INFRASTRUCTURE, INC.   </td><td><select id="10567585" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10561697&amp;filed=true">10561697</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/13/2023</td><td><i>Weber</i><br>010050047</td><td>
+				222 28th Street<br>
+				Ogden, UT 84401
+				
+			</td><td>B H, Inc.</td><td>Ludvik Electric</td><td>Ogden City</td><td>Lightning Protection Systems, LLC DBA VFC</td><td><select id="10561697" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10545559&amp;filed=true">10545559</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/06/2023</td><td><i>Weber</i><br>010050047</td><td>
+				222 28th Street<br>
+				Ogden, UT 84401
+				<br>Marshall N. White Center
+			</td><td>B H, Inc.</td><td>Advanced Plumbing &amp; Mechanical</td><td>Ogden City Corporation</td><td>Utah-Yamas Controls</td><td><select id="10545559" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10539833&amp;filed=true">10539833</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/05/2023</td><td><i>Weber</i><br>010050047</td><td>
+				222 28th Street<br>
+				Ogden, UT 84401
+				
+			</td><td>B H, Inc.</td><td>Ludvik Electric Co</td><td>Ogden City</td><td>Rexel USA Inc dba Platt Electric Supply</td><td><select id="10539833" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10529383&amp;filed=true">10529383</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>08/29/2023</td><td><i>Duchesne</i><br>00-0007-6475</td><td>
+				3122 S 12000 W. GPS: 40.255974, -110.222702<br>
+				DUCHESNE, UT 84021
+				<br>RAVOLA COMPRESSOR BUILDING
+			</td><td>B H, INC. </td><td>KINDER MORGAN ALTAMONT LLC </td><td>EL PASO MIDSTREAM INVESTMENT CO LLC</td><td>B H, INC.  </td><td><select id="10529383" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10529379&amp;filed=true">10529379</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>08/29/2023</td><td><i>Duchesne</i><br>00-0007-6475</td><td>
+				3122 S 12000 W. GPS: 40.255974, -110.222702<br>
+				DUCHESNE, UT 84021
+				<br>RAVOLA COMPRESSOR BUILDING  
+			</td><td>B H, INC. </td><td>KINDER MORGAN ALTAMONT LLC </td><td>KINDER MORGAN ALTAMONT LLC </td><td>B H, INC.  </td><td><select id="10529379" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10528213&amp;filed=true">10528213</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>08/29/2023</td><td><i>Weber</i><br>010050047</td><td>
+				222 28th Street<br>
+				Ogden, UT 84401
+				
+			</td><td>B H, Inc.</td><td>B H Inc.</td><td>Ogden City</td><td>Ludvik Electric Co.</td><td><select id="10528213" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10405375&amp;filed=true">10405375</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>07/06/2023</td><td><i>Kane</i><br>ZZZ-157</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 S <br>
+				KANAB, UT 84741
+				<br>GLEN CANYON SOLAR
+			</td><td>B H, INC. </td><td>B H INC</td><td>GLEN CANYON SOLAR A, LLC </td><td>H&amp;E Equipment Services, Inc.</td><td><select id="10405375" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391559&amp;filed=true">10391559</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8358</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>JORDANELLE REF ACQUISITION LLC</td><td>B H, INC. </td><td><select id="10391559" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391553&amp;filed=true">10391553</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8359</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>JORDANELLE REF ACQUISITION LLC </td><td>B H, INC. </td><td><select id="10391553" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391549&amp;filed=true">10391549</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8356</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>JORDANELLE REF ACQUISITION LLC </td><td>B H, INC. </td><td><select id="10391549" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391545&amp;filed=true">10391545</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8357</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>JORDANELLE REF ACQUISITION LLC </td><td>B H, INC. </td><td><select id="10391545" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391539&amp;filed=true">10391539</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8360</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>RE INVESTMENT HOLDINGS, L.L.C. </td><td>B H, INC. </td><td><select id="10391539" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391529&amp;filed=true">10391529</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-5040</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>RE INVESTMENT HOLDINGS, L.L.C. </td><td>B H, INC. </td><td><select id="10391529" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391525&amp;filed=true">10391525</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-5026</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>RE INVESTMENT HOLDINGS, L.L.C. </td><td> B H, INC. </td><td><select id="10391525" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391521&amp;filed=true">10391521</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8358</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td> B H, INC. </td><td><select id="10391521" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391511&amp;filed=true">10391511</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8360</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td>B H, INC. </td><td><select id="10391511" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391499&amp;filed=true">10391499</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-5040</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td>B H, INC. </td><td><select id="10391499" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391493&amp;filed=true">10391493</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8359</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td>B H, INC. </td><td><select id="10391493" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391487&amp;filed=true">10391487</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8356</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td>B H, INC. </td><td><select id="10391487" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391485&amp;filed=true">10391485</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8357</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td>B H, INC. </td><td><select id="10391485" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10391477&amp;filed=true">10391477</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-5026</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td>B H, INC. </td><td><select id="10391477" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filingCancelled filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10388199&amp;filed=true">10388199</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8357, 00-0021-8358, ...</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>HOLLEY DRIGGS</td><td>B H, INC. </td><td><select id="10388199" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filingCancelled filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10388197&amp;filed=true">10388197</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8356, 00-0021-8357, ...</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>JORDANELLE REF ACQUISITION LLC </td><td>B H, INC. </td><td><select id="10388197" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filingCancelled filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10388195&amp;filed=true">10388195</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8360, 00-0021-5026, ...</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>RE INVESTMENT HOLDINGS, L.L.C. </td><td>B H, INC. </td><td><select id="10388195" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filingCancelled filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10388193&amp;filed=true">10388193</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/27/2023</td><td><i>Wasatch</i><br>00-0021-8360, 00-0021-8359, ...</td><td>
+				NO ADDRESS, SEE PARCEL NUMBERS <br>
+				HEBER CITY, UT 84032
+				<br>MARCELLA GOLF COURSE
+			</td><td>B H, INC. </td><td>MARCELLA GOLF CLUB LLC</td><td>MARCELLA GOLF CLUB LLC </td><td>B H, INC. </td><td><select id="10388193" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10386697&amp;filed=true">10386697</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/26/2023</td><td><i>Kane</i><br>SITLA</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 SOUTH RANGE 2 EAST SLB&amp;M.<br>
+				KANAB, UT 84741
+				<br>GLEN CANYON 95 MWAC/118.75 MWDC SOLAR PROJECT
+			</td><td>B H, INC.</td><td>BH INC</td><td>UTAH SCHOOL AND INSTITUTIONAL TRUST LANDS ADMINISTRATION</td><td>Western Rock Products</td><td><select id="10386697" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10386653&amp;filed=true">10386653</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/26/2023</td><td><i>Kane</i><br>ZZZ-157</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 S <br>
+				KANAB, UT 84741
+				<br>GLEN CANYON SOLAR
+			</td><td>B H, INC. </td><td>BH INC</td><td>GLEN CANYON SOLAR A, LLC </td><td>Western Rock Products</td><td><select id="10386653" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10353613&amp;filed=true">10353613</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/12/2023</td><td><i>Kane</i><br>SITLA</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 SOUTH RANGE 2 EAST SLB&amp;M.<br>
+				KANAB, UT 84741
+				<br>GLEN CANYON 95 MWAC/118.75 MWDC SOLAR PROJECT
+			</td><td>B H, INC.</td><td>FENCE MASTERS, INC.</td><td>SITLA</td><td>FENCING SUPPLY GROUP ACQUISITION, LLC DBA MERCHANTS METALS, LLC</td><td><select id="10353613" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10353609&amp;filed=true">10353609</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/12/2023</td><td><i>Kane</i><br>SITLA</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 SOUTH RANGE 2 EAST SLB&amp;M.<br>
+				KANAB, UT 84741
+				<br>GLEN CANYON 95 MWAC/118.75 MWDC SOLAR PROJECT
+			</td><td>B H, INC.</td><td>FENCE MASTERS, INC.</td><td>UTAH SCHOOL AND INSTITUTIONAL TRUST LANDS ADMINISTRATION</td><td>FENCING SUPPLY GROUP ACQUISITION, LLC DBA MERCHANTS METALS, LLC</td><td><select id="10353609" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10353601&amp;filed=true">10353601</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/12/2023</td><td><i>Kane</i><br>ZZZ-157</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 S <br>
+				KANAB, UT 84741
+				<br>GLEN CANYON 95 MWAC/118.75 MWDC SOLAR PROJECT
+			</td><td>B H, INC.</td><td>FENCE MASTERS, INC.</td><td>SITLA</td><td>FENCING SUPPLY GROUP ACQUISITION, LLC DBA MERCHANTS METALS, LLC</td><td><select id="10353601" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10353595&amp;filed=true">10353595</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/12/2023</td><td><i>Kane</i><br>ZZZ-157</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 S <br>
+				KANAB, UT 84741
+				<br>GLEN CANYON 95 MWAC/118.75 MWDC SOLAR PROJECT
+			</td><td>B H, INC.</td><td>FENCE MASTERS, INC.</td><td>UTAH SCHOOL AND INSTITUTIONAL TRUST LANDS ADMINISTRATION</td><td>FENCING SUPPLY GROUP ACQUISITION, LLC DBA MERCHANTS METALS LLC</td><td><select id="10353595" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10305121&amp;filed=true">10305121</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>05/18/2023</td><td><i>Uintah</i><br>050310110</td><td>
+				302 E 200 S<br>
+				Vernal, UT 84078
+				
+			</td><td>B H, INC. DBA BHI</td><td>B H, INC. DBA BHI</td><td>Uintah County</td><td>Patriot Precision, LLC</td><td><select id="10305121" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10254677&amp;filed=true">10254677</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>04/25/2023</td><td><i>Millard</i><br>MA-2564-A</td><td>
+				10 BRUSH WELLMAN RD <br>
+				DELTA, UT 84624
+				<br>SAWTOOTH MATERION PHASE 2 ELECTRICAL FEED TO TSF2
+			</td><td>B H, INC. </td><td>FRONTIER HEAT TREATING/RT</td><td>MATERION NATURAL RESOURCES INC.</td><td>United Rentals, Inc</td><td><select id="10254677" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10254017&amp;filed=true">10254017</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>04/25/2023</td><td><i>Emery</i><br>01-0150-0005</td><td>
+				1615 W MAIN ST, <br>
+				GREEN RIVER, UT 84525
+				<br>LOVE’S GREEN RIVER EMPLOYEE HOUSING
+			</td><td>B H, INC. </td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>B H, INC. </td><td><select id="10254017" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10250499&amp;filed=true">10250499</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>04/24/2023</td><td><i>Uintah</i><br>000000000</td><td>
+				*OURAY PARK WATER IMPROVEMENT DISTRICT* 5500 SOUTH 14500 EAST<br>
+				RANDLETT, UT 84063
+				<br>OURAY WATERLINE
+			</td><td>B H, INC. DBA BHI</td><td>B H, INC. DBA BHI</td><td>OURAY PARK WATER IMPROVEMENT DISTRICT</td><td>Core &amp; Main LP</td><td><select id="10250499" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10205207&amp;filed=true">10205207</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/28/2023</td><td><i>Wasatch</i><br>00-0012-4011</td><td>
+				8911 S MEADOW DR<br>
+				HEBER, UT 84604
+				<br>LOT 12 AMENDED CANYON MEADOWS SUB PLAT A
+			</td><td>B H, INC. </td><td>Lomu Legacy Builders LLC</td><td>STONECREST AT SEVEN PEAKS LLC</td><td>Sunpro Corporation</td><td><select id="10205207" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10176267&amp;filed=true">10176267</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/09/2023</td><td><i>Millard</i><br>170754</td><td>
+				9650 NORTH 540 EAST <br>
+				Delta, UT 84624
+				<br>SAWTOOTH CAVERNS, LLC
+			</td><td>B H, INC. </td><td>SAWTOOTH CAVERNS, LLC</td><td>UTAH STATE OF</td><td>B H, INC. </td><td><select id="10176267" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10176255&amp;filed=true">10176255</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/09/2023</td><td><i>Millard</i><br>170754</td><td>
+				9650 NORTH 540 EAST <br>
+				Delta, UT 84624
+				<br>SAWTOOTH CAVERNS, LLC
+			</td><td>B H, INC. </td><td>SAWTOOTH CAVERNS, LLC</td><td>SAWTOOTH CAVERNS, LLC </td><td>B H, INC. </td><td><select id="10176255" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10157669&amp;filed=true">10157669</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/03/2023</td><td><i>Box Elder</i><br>031120020</td><td>
+				55 S. 1550 W. <br>
+				BRIGHAM CITY, UT 84302
+				<br>LOVE’S BRIGHAM CITY RV PARK
+			</td><td>B H, INC. </td><td>BHI CONSTRUCTION</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>BUILDER SERVICES GROUP (SUPERIOR INSULATION)</td><td><select id="10157669" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10133097&amp;filed=true">10133097</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>02/13/2023</td><td><i>Box Elder</i><br>031120020</td><td>
+				55 S. 1550 W. <br>
+				BRIGHAM CITY, UT 84302
+				<br>LOVE’S BRIGHAM CITY RV PARK
+			</td><td>B H, INC. </td><td>Advanced Plumbing &amp; Heating, Inc.</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>Peterson Plumbing Supply</td><td><select id="10133097" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10122499&amp;filed=true">10122499</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>02/06/2023</td><td><i>Kane</i><br>ZZZ-157</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 S <br>
+				KANAB, UT 84741
+				<br>GLEN CANYON SOLAR
+			</td><td>B H, INC. </td><td>GLEN CANYON SOLAR A, LLC C/O AES CLEAN ENERGY DEVELOPMENT, LLC </td><td>SITLA - UTAH SCHOOL &amp; INSTITUTIONAL TRUST LAND</td><td>B H, INC. </td><td><select id="10122499" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10122487&amp;filed=true">10122487</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>02/06/2023</td><td><i>Kane</i><br>ZZZ-157</td><td>
+				SECTIONS 4, 5, 6, 7, 8 AND 9 OF TOWNSHIP 43 S <br>
+				KANAB, UT 84741
+				<br>GLEN CANYON SOLAR
+			</td><td>B H, INC. </td><td>GLEN CANYON SOLAR A, LLC C/O AES CLEAN ENERGY DEVELOPMENT, LLC </td><td>GLEN CANYON SOLAR A, LLC </td><td>B H, INC. </td><td><select id="10122487" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10110631&amp;filed=true">10110631</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>01/27/2023</td><td><i>Box Elder</i><br>031120020</td><td>
+				55 S. 1550 W. <br>
+				BRIGHAM CITY, UT 84302
+				<br>RV STOP-LOVE’S - LOVE’S BRIGHAM CITY RV PARK
+			</td><td>B H, INC. DBA BHI</td><td>BHI INC</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>American Fence Company</td><td><select id="10110631" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10090943&amp;filed=true">10090943</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>01/17/2023</td><td><i>Box Elder</i><br>031120020</td><td>
+				55 S. 1550 W. <br>
+				BRIGHAM CITY, UT 84302
+				<br>RV STOP-LOVE’S - LOVE’S BRIGHAM CITY RV PARK
+			</td><td>B H, INC. DBA BHI</td><td>Thurgood Excavating Inc</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>Staker &amp; Parson Co</td><td><select id="10090943" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10088655&amp;filed=true">10088655</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>01/15/2023</td><td><i>Weber</i><br>000000000</td><td>
+				*GRANDVIEW ACRES-SEWER REPAIR* GRAMERCY AVENUE &amp; GRANDVIEW DRIVE<br>
+				OGDEN, UT 84401
+				<br>GRANDVIEW ACRES
+			</td><td>B H, INC. DBA BHI</td><td>B H, INC. DBA BHI</td><td>OGDEN CITY</td><td>Core &amp; Main LP</td><td><select id="10088655" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10065005&amp;filed=true">10065005</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>12/30/2022</td><td><i>Box Elder</i><br>031120020</td><td>
+				55 S. 1550 W. <br>
+				BRIGHAM CITY, UT 84302
+				<br>RV STOP-LOVE’S - LOVE’S BRIGHAM CITY RV PARK
+			</td><td>B H, INC. DBA BHI</td><td>THURGOOD EXCAVATING, INC.</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>Core &amp; Main LP</td><td><select id="10065005" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10046849&amp;filed=true">10046849</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>12/19/2022</td><td><i>Washington</i><br>W-BMS-1-A</td><td>
+				990 W BUENA VISTA BLVD <br>
+				WASHINGTON, UT 84780
+				<br>#657 MAVERIK NEW BUILD - UT - WASHINGTON
+			</td><td>B H, INC. </td><td>B H, Inc.</td><td>FREEWAY CHEVRON HOLDINGS LLC</td><td>Innovative Steel Solutions</td><td><select id="10046849" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=10011179&amp;filed=true">10011179</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>11/29/2022</td><td><i>Weber</i><br>00-000-0000</td><td>
+				1250 WASHINGTON BOULEVARD<br>
+				OGDEN, UT 84401
+				<br>1250 WASHINGTON SEWER
+			</td><td>B H, INC. DBA BHI</td><td>B H, INC. DBA BHI</td><td>OGDEN CITY</td><td>Core &amp; Main LP</td><td><select id="10011179" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10009775&amp;filed=true">10009775</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>11/29/2022</td><td><i>Duchesne</i><br>00-0005-6386</td><td>
+				928 NORTH CRESCENT STREET <br>
+				ROOSEVELT, UT 84066
+				<br>LMP CONTAINMENT
+			</td><td>B H, INC. </td><td>HALIBURTON</td><td>BABCOCK RICHARD E</td><td>B H, INC. </td><td><select id="10009775" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10009771&amp;filed=true">10009771</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>11/29/2022</td><td><i>Duchesne</i><br>00-0005-6386</td><td>
+				928 NORTH CRESCENT STREET <br>
+				ROOSEVELT, UT 84066
+				<br>LMP CONTAINMENT
+			</td><td>B H, INC. </td><td>HALIBURTON</td><td>HALIBURTON</td><td>B H, INC. </td><td><select id="10009771" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=10007507&amp;filed=true">10007507</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>11/28/2022</td><td><i>Box Elder</i><br>031120020</td><td>
+				55 S. 1550 W. <br>
+				BRIGHAM CITY, UT 84302
+				<br>LOVE’S BRIGHAM CITY RV PARK
+			</td><td>B H, INC. </td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>LOVE’S TRAVEL STOPS &amp; COUNTRY STORES, INC.</td><td>B H, INC. </td><td><select id="10007507" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9988891&amp;filed=true">9988891</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>11/16/2022</td><td><i>Uintah</i><br>050430020</td><td>
+				80 S 1500 E <br>
+				VERNAL, UT 84078
+				<br>UT NATIONAL GUARD - VERNAL FMS PARKING LOT UPGRADE
+			</td><td>B H, INC. </td><td>R CHAPMAN CONSTRUCTION, INC.</td><td>STATE OF UTAH (DFCM) - UTAH STATE ARMORY BOARD</td><td>B H, INC. </td><td><select id="9988891" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9988873&amp;filed=true">9988873</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>11/16/2022</td><td><i>Uintah</i><br>050430020</td><td>
+				80 S 1500 E <br>
+				vernal, UT 84078
+				<br>VERNAL FMS PARKING LOT UPGRADE; UT NATIONAL GUARD
+			</td><td>B H, INC. </td><td>R CHAPMAN CONSTRUCTION, INC.</td><td>UTAH STATE ARMORY BOARD</td><td>B H, INC. </td><td><select id="9988873" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9988861&amp;filed=true">9988861</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>11/16/2022</td><td><i>Utah</i><br>19-047-0025</td><td>
+				1499 NORTH 2100 WEST <br>
+				Provo, UT 84604
+				<br>ATLAS COLUMBIA-JORG
+			</td><td>B H, INC. </td><td>ATLAS TOWER 1 LLC C/O  BUSINESS FILINGS INCORPORATED </td><td>ATLAS TOWER 1 LLC</td><td>B H, INC. </td><td><select id="9988861" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9986217&amp;filed=true">9986217</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>11/15/2022</td><td><i>Carbon</i><br>01-2660-0005</td><td>
+				230 N HOSPITAL DR #2<br>
+				Price, UT 84501
+				
+			</td><td>B H, Inc.</td><td>SKYLINE ROOFING INC</td><td>Russell Beecher, D.O. / CASTLEVIEW HOSPITAL LLC LIFEPOINT HOSPITALS INC</td><td>SRS Distribution Inc DBA ROOFERS SUPPLY</td><td><select id="9986217" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9957515&amp;filed=true">9957515</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>11/01/2022</td><td><i>Weber</i><br>122160002</td><td>
+				Stewart Drive and Andrews Way<br>
+				Ogden, UT 84404
+				<br>BDO SUSA 
+			</td><td>B H, Inc.</td><td>B H, Inc.</td><td>BDO SUSA, L.C.</td><td>B.K. Drywall, Inc.</td><td><select id="9957515" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filingCancelled"><td><a href="/scr/preliminary-notice/view.html?filingId=9935739&amp;filed=true">9935739</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>10/21/2022</td><td><i>Carbon</i><br>02-1072-0003</td><td>
+				335 N. FAIRGROUNDS RD.,<br>
+				PRICE, UT 84501
+				<br>EASTERN UTAH SPINE AND PAIN CLINIC
+			</td><td>B H, INC.</td><td>B H, Inc. dba BHI</td><td>HILLTOP HOLDINGS 1, LLC and/or BALLARD FAMILY ENTERPRISES LLC</td><td>Cannon Sales, Inc.</td><td><select id="9935739" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9930903&amp;filed=true">9930903</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>10/19/2022</td><td><i>Washington</i><br>000000000</td><td>
+				Buena Vista at North Green Spring Drive<br>
+				WASHINGTON, UT 84780
+				<br>Maverik #657 Washington New Store
+			</td><td>B H, INC. </td><td>BHI</td><td>FREEWAY CHEVRON HOLDINGS LLC</td><td>KORE REFRIGERATION</td><td><select id="9930903" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9894559&amp;filed=true">9894559</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>10/04/2022</td><td><i>Millard</i><br>MA-2564-A</td><td>
+				10 BRUSH WELLMAN RD Â 39Â°27’59”NÂ  112Â° 26’18”W<br>
+				DELTA, UT 84624
+				<br>MATERION PHASE 2 ELECTRICAL FEED TO TSF2
+			</td><td>B H, INC. </td><td>MATERION NATURAL RESOURCES INC.</td><td>MATERION NATURAL RESOURCES INC.</td><td>B H, INC. </td><td><select id="9894559" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9889013&amp;filed=true">9889013</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/30/2022</td><td><i>Washington</i><br>W-207-A-2-A</td><td>
+				990 W BUENA VISTA BLVD <br>
+				WASHINGTON, UT 84780
+				<br>#657 MAVERIK NEW BUILD - UT - WASHINGTON
+			</td><td>B H, INC. </td><td>MAVERIK, INC.</td><td>FREEWAY CHEVRON HOLDINGS LLC</td><td>B H, INC. </td><td><select id="9889013" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9889007&amp;filed=true">9889007</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/30/2022</td><td><i>Washington</i><br>W-BMS-1-A</td><td>
+				990 W BUENA VISTA BLVD <br>
+				WASHINGTON, UT 84780
+				<br>#657 MAVERIK NEW BUILD - UT - WASHINGTON
+			</td><td>B H, INC. </td><td>MAVERIK, INC.</td><td>FREEWAY CHEVRON HOLDINGS LLC</td><td>B H, INC. </td><td><select id="9889007" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9888999&amp;filed=true">9888999</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/30/2022</td><td><i>Washington</i><br>W-207-A-2-A</td><td>
+				990 W BUENA VISTA BLVD <br>
+				WASHINGTON, UT 84780
+				<br>#657 MAVERIK NEW BUILD - UT - WASHINGTON
+			</td><td>B H, INC. </td><td>MAVERIK, INC.</td><td>MAVERIK, INC. </td><td>B H, INC. </td><td><select id="9888999" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9888987&amp;filed=true">9888987</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/30/2022</td><td><i>Washington</i><br>W-BMS-1-A</td><td>
+				990 W BUENA VISTA BLVD <br>
+				WASHINGTON, UT 84780
+				<br>#657 MAVERIK NEW BUILD - UT - WASHINGTON
+			</td><td>B H, INC. </td><td>MAVERIK, INC.</td><td>MAVERIK, INC. </td><td>B H, INC. </td><td><select id="9888987" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9878485&amp;filed=true">9878485</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/27/2022</td><td><i>Weber</i><br>00-000-0000</td><td>
+				18th Street and Grant Avenue<br>
+				Ogden City, UT 84401
+				<br>*18th and Grant Avenue Storm Drain Project*
+			</td><td>B H, INC. dba BHI</td><td>POST CONSTRUCTION</td><td>Ogden City</td><td>GRANITE CONSTRUCTION COMPANY</td><td><select id="9878485" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9876285&amp;filed=true">9876285</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/26/2022</td><td><i>Carbon</i><br>02-1072-0003</td><td>
+				Westwood Blvd &amp; Fairground Road<br>
+				OGDEN, UT 84401
+				<br>Eastern Utah Spine &amp; Pain Clinic
+			</td><td>B H, INC.</td><td>CFM HEATING &amp; AIR</td><td>HILLTOP HOLDINGS 1, LLC and/or BALLARD FAMILY ENTERPRISES LLC</td><td>MOUNTAINLAND SUPPLY COMPANY</td><td><select id="9876285" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9860037&amp;filed=true">9860037</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>09/19/2022</td><td><i>Carbon</i><br>02-1072-0003</td><td>
+				Westwood Blvd &amp; Fairground Road<br>
+				Price, UT 84501
+				<br>Eastern Utah Spine &amp; Pain Clinic
+			</td><td>B H, INC.</td><td>B H, INC. </td><td>HILLTOP HOLDINGS 1, LLC and/or BALLARD FAMILY ENTERPRISES LLC</td><td>TCG INC</td><td><select id="9860037" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9782297&amp;filed=true">9782297</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>08/15/2022</td><td><i>Washington</i><br>W-207-A-2-A</td><td>
+				990 WEST BUENA VISTA BLVD <br>
+				Washington, UT 84780
+				<br>MAVERIK GREEN SPRINGS
+			</td><td>B H, INC.</td><td>STEEL ENCOUNTERS, INC.</td><td>FREEWAY CHEVRON HOLDINGS LLC</td><td>VALLEY JOIST, L.L.C. </td><td><select id="9782297" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9782271&amp;filed=true">9782271</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>08/15/2022</td><td><i>Washington</i><br>W-207-A-2-A</td><td>
+				990 WEST BUENA VISTA BLVD <br>
+				Washington, UT 84780
+				<br>MAVERIK GREEN SPRINGS
+			</td><td>B H, INC.</td><td>STEEL ENCOUNTERS, INC.</td><td>MAVERIK LOGISTICS LLC </td><td>VALLEY JOIST, L.L.C. </td><td><select id="9782271" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9763529&amp;filed=true">9763529</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>08/05/2022</td><td><i>Emery</i><br>01-0014-0018</td><td>
+				675 EAST MAIN STREET <br>
+				CASTLE DALE, UT 84513
+				<br>MAVERIK CASTLE DALE STORE #706
+			</td><td>B H, INC. </td><td>STEEL ENCOUNTERS, INC.</td><td>MAVERIK, INC.</td><td>VALLEY JOIST, L.L.C. </td><td><select id="9763529" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9745499&amp;filed=true">9745499</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>07/29/2022</td><td><i>Weber</i><br>000-000-0000</td><td>
+				3280 TAYLOR AVENUE <br>
+				Ogden, UT 84403
+				<br>TAYLOR AVE 32ND TO 33RD STREET STORM
+			</td><td>B H, INC.</td><td>B H, INC.</td><td>OGDEN CITY</td><td>OLDCASTLE INFRASTRUCTURE, INC. </td><td><select id="9745499" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9743757&amp;filed=true">9743757</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>07/29/2022</td><td><i>Duchesne</i><br>00-0001-6307</td><td>
+				80 N. 200 W.<br>
+				Roosevelt City, UT 84066
+				<br>ROOSEVELT LIBRARY
+			</td><td>B H, Inc.</td><td>EAGLE PEAK EXTERIORS, LLC</td><td>ROOSEVELT CITY</td><td>Herc Rentals Inc. </td><td><select id="9743757" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9743755&amp;filed=true">9743755</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>07/29/2022</td><td><i>Duchesne</i><br>00-0001-6307</td><td>
+				80 N. 200 W.<br>
+				Roosevelt City, UT 84066
+				<br>ROOSEVELT LIBRARY
+			</td><td>B H, Inc.</td><td>EAGLE PEAK EXTERIORS, LLC</td><td>Duchesne County</td><td>Herc Rentals Inc. </td><td><select id="9743755" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9726069&amp;filed=true">9726069</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>07/21/2022</td><td><i>Emery</i><br>01-0014-0018</td><td>
+				675 EAST MAIN STREET <br>
+				CASTLE DALE, UT 84513
+				<br>MAVERIK CASTLE DALE STORE #706
+			</td><td>B H, INC. </td><td>MAVERIK COUNTRY STORES, INC.</td><td>MAVERIK COUNTRY STORES, INC.</td><td>B H, INC. </td><td><select id="9726069" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9702785&amp;filed=true">9702785</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>07/11/2022</td><td><i>Carbon</i><br>02-1072-0003</td><td>
+				335 N. FAIRGROUNDS RD.<br>
+				PRICE, UT 84501
+				<br>EASTERN UTAH SPINAL AND PAIN CLINIC
+			</td><td>B H, INC.</td><td>B H, Inc. </td><td>HILLTOP HOLDINGS 1, LLC and/or BALLARD FAMILY ENTERPRISES LLC</td><td>CFM Heating &amp; Air Conditioning, Inc</td><td><select id="9702785" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9639793&amp;filed=true">9639793</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/13/2022</td><td><i>Wasatch</i><br>00-0000-0000</td><td>
+				100 East 5th North to 5th South<br>
+				Heber City, UT 84032
+				<br>*Heber Water &amp; Sewer Replacement*
+			</td><td>B H, Inc. dba BHI</td><td>B H, Inc. dba BHI</td><td>Heber City</td><td>CORE &amp; MAIN LP</td><td><select id="9639793" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9638079&amp;filed=true">9638079</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/13/2022</td><td><i>Weber</i><br>00-000-0000</td><td>
+				Airport Road<br>
+				Ogden, UT 84410
+				<br>Ogden Airport Road Sewer Improvements
+			</td><td>B H, INC.</td><td>B H, INC.</td><td>Ogden City</td><td>OLDCASTLE INFRASTRUCTURE, INC.</td><td><select id="9638079" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9626309&amp;filed=true">9626309</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>06/07/2022</td><td><i>Wasatch</i><br>00-0000-0000</td><td>
+				680 N 550 E <br>
+				HEBER CITY, UT 84032
+				<br>HEBER CITY WATER/SEWER REPLACEMENT PROGRAM
+			</td><td>B H, INC.</td><td>B H, INC.</td><td>HEBER CITY</td><td>OLDCASTLE INFRASTRUCTURE, INC. </td><td><select id="9626309" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9614763&amp;filed=true">9614763</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>06/02/2022</td><td><i>Wasatch</i><br>00-0012-4003, 00-0012-4052, ...</td><td>
+				HIGHWAY 189 AND MEADOW DRIVE <br>
+				PROVO, UT 84604
+				<br>CANYON MEADOWS
+			</td><td>B H, INC. </td><td>CASCADE DEVELOPMENT COMPANY LC</td><td>CASCADE DEVELOPMENT COMPANY LC</td><td>B H, INC. </td><td><select id="9614763" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9597439&amp;filed=true">9597439</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>05/25/2022</td><td><i>Iron</i><br>D-0433-0003-0000</td><td>
+				7956 NORTH LUND HIGHWAY<br>
+				CEDAR CITY, UT 84721
+				<br>APPALOOSA SOLAR 1 PROJECT
+			</td><td>B H, INC.</td><td>SUNDT RENEWABLES, LLC</td><td>SOUTHERN UTAH SOLAR PROPERTY L L C</td><td>B H, INC.</td><td><select id="9597439" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9597421&amp;filed=true">9597421</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>05/25/2022</td><td><i>Iron</i><br>D-0433-0003-0000</td><td>
+				7956 NORTH LUND HIGHWAY<br>
+				CEDAR CITY, UT 84721
+				<br>APPALOOSA SOLAR 1 PROJECT
+			</td><td>B H, INC.</td><td>SUNDT RENEWABLES, LLC</td><td>RPLUS ENERGIES, LLC </td><td>B H, INC.</td><td><select id="9597421" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filedByGeneralContractor"><td><a href="/scr/preliminary-notice/view.html?filingId=9560205&amp;filed=true">9560205</a></td><td class="capitalize">
+				preliminary
+				<br><i>Filed by General Contractor</i>
+				
+			</td><td>05/10/2022</td><td><i>Carbon</i><br>02-1072-0003</td><td>
+				335 N. FAIRGROUNDS RD.<br>
+				PRICE, UT 84501
+				<br>EASTERN UTAH SPINAL AND PAIN CLINIC
+			</td><td>B H, INC.</td><td>HILLTOP HOLDINGS 1, LLC</td><td>HILLTOP HOLDINGS 1, LLC and/or BALLARD FAMILY ENTERPRISES LLC</td><td>B H, INC.</td><td><select id="9560205" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9485731&amp;filed=true">9485731</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>04/10/2022</td><td><i>Salt Lake</i><br>00-00-000-000-0000</td><td>
+				4094 Sentinel Ridge Blvd.<br>
+				Herriman City, UT 84096
+				<br>Juniper Canyon Recreation Area Phase 1
+			</td><td>B H, INC. dba BHI</td><td>SUNROC CORPORATION</td><td>HERRIMAN CITY</td><td>OLDCASTLE INFRASTRUCTURE, INC.</td><td><select id="9485731" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9475607&amp;filed=true">9475607</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>04/05/2022</td><td><i>Weber</i><br>00-000-0000</td><td>
+				18th Street and Grant Avenue<br>
+				Ogden City, UT 84401
+				<br>*18th and Grant Avenue Storm Drain Project*
+			</td><td>B H, INC. dba BHI</td><td>B H, Inc. dba BHI</td><td>Ogden City</td><td>CORE &amp; MAIN LP</td><td><select id="9475607" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9456551&amp;filed=true">9456551</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/29/2022</td><td><i>Weber</i><br>00-000-0000</td><td>
+				25th Street, Jefferson Avenue to Van Buren Avenue<br>
+				Ogden City, UT 84401
+				<br> *WU105-25th St. WL-Jefferson2VB*      
+			</td><td>B H, INC. dba BHI</td><td>B H, Inc. dba BHI</td><td>Ogden City</td><td>CORE &amp; MAIN LP</td><td><select id="9456551" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9453603&amp;filed=true">9453603</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/28/2022</td><td><i>Emery</i><br>04-0019-0029</td><td>
+				Coal Haul Rd, Orangeville Ut<br>
+				Orangeville City, UT 84537
+				
+			</td><td>B H, Inc.</td><td>WESTERN STATES MECHANICAL</td><td>Emery County LBA</td><td>Power Engineering Co., Inc.</td><td><select id="9453603" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9453591&amp;filed=true">9453591</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/28/2022</td><td><i>Emery</i><br>04-0019-0029</td><td>
+				Coal Haul Rd, Orangeville Ut<br>
+				Orangeville City, UT 84537
+				
+			</td><td>B H, Inc.</td><td>WESTERN STATES MECHANICAL</td><td>Emery County LBA</td><td>Power Engineering Co., Inc.</td><td><select id="9453591" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9450831&amp;filed=true">9450831</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/28/2022</td><td><i>Emery</i><br>04-0019-0029</td><td>
+				Coal Haul Rd, Orangeville Ut<br>
+				Orangeville City, UT 84537
+				<br>San Rafael Energy Research Center   
+			</td><td>B H, Inc.</td><td>Emery County</td><td>Emery County LBA</td><td>Staker &amp; Parson Co dba Nielson Construction</td><td><select id="9450831" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filingCancelled"><td><a href="/scr/preliminary-notice/view.html?filingId=9441033&amp;filed=true">9441033</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/23/2022</td><td><i>Weber</i><br>122160002</td><td>
+				596 W ANDREWS WY<br>
+				Ogden City, UT 84404
+				<br>BDO SUSA EXPANSION
+			</td><td>B H, INC.</td><td>BDO SUSA, L.C.</td><td>Ogden City Corp</td><td>OLDCASTLE INFRASTRUCTURE, INC.</td><td><select id="9441033" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr class="filingCancelled"><td><a href="/scr/preliminary-notice/view.html?filingId=9441025&amp;filed=true">9441025</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/23/2022</td><td><i>Weber</i><br>122160002</td><td>
+				596 W ANDREWS WY<br>
+				Ogden City, UT 84404
+				<br>BDO SUSA EXPANSION
+			</td><td>B H, INC.</td><td>BDO SUSA, L.C.</td><td>BDO SUSA, L.C.</td><td>OLDCASTLE INFRASTRUCTURE, INC.</td><td><select id="9441025" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9388723&amp;filed=true">9388723</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>03/01/2022</td><td><i>Uintah</i><br>05:080:0038</td><td>
+				HWY 40 &amp; 1000 S. AKA 1987 W HWY 40<br>
+				Vernal City, UT 84078
+				<br>MAVERIK C-STORE NEW BUILD
+			</td><td>B H, INC.</td><td>CKC OPERATIONS LLC.</td><td>Maverik, Inc.</td><td>Campbell Companies</td><td><select id="9388723" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9379091&amp;filed=true">9379091</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>02/24/2022</td><td><i>Salt Lake</i><br>00-00-000-000-0000</td><td>
+				2925 St. Mary's Way<br>
+				Salt Lake City, UT 84108
+				<br>*St. Mary's Waterline Replacement*
+			</td><td>B H, INC. dba BHI</td><td>B H, Inc. dba BHI</td><td>Salt Lake City</td><td>CORE &amp; MAIN LP</td><td><select id="9379091" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9370191&amp;filed=true">9370191</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>02/21/2022</td><td><i>Tooele</i><br>06-134-0-0001</td><td>
+				99 Skull Valley Road<br>
+				Skull Valley City, UT 84022
+				<br>Tekoi Landfill
+			</td><td>B H, INC. dba BHI</td><td>International Lining Tech</td><td>CASTLE ROCK LAND AND LIVESTOCK COMPANY</td><td>Campbell Companies</td><td><select id="9370191" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9352211&amp;filed=true">9352211</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>02/13/2022</td><td><i>Weber</i><br>000000000</td><td>
+				1350 East Country Hills Drive    <br>
+				Ogden City, UT 84401
+				<br>*IDQ Job - Country Hills Drive - PO #22-2619262305*
+			</td><td>B H, INC. dba BHI</td><td>B H, Inc. dba BHI</td><td>Ogden City</td><td>CORE &amp; MAIN LP</td><td><select id="9352211" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9341307&amp;filed=true">9341307</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>02/08/2022</td><td><i>Tooele</i><br>06-134-0-0001</td><td>
+				99 Skull Valley Road<br>
+				Skull Valley City, UT 84022
+				<br>Tekoi Landfill
+			</td><td>B H, INC. dba BHI</td><td>B H, Inc. dba BHI</td><td>CASTLE ROCK LAND AND LIVESTOCK COMPANY</td><td>CORE &amp; MAIN LP</td><td><select id="9341307" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9341301&amp;filed=true">9341301</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>02/08/2022</td><td><i>Tooele</i><br>06-134-0-0001</td><td>
+				99 Skull Valley Road<br>
+				Skull Valley City, UT 84022
+				<br>Tekoi Landfill
+			</td><td>B H, INC. dba BHI</td><td>B H, Inc. dba BHI</td><td>Waste Management of Utah, Inc.</td><td>CORE &amp; MAIN LP</td><td><select id="9341301" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr><tr><td><a href="/scr/preliminary-notice/view.html?filingId=9313007&amp;filed=true">9313007</a></td><td class="capitalize">
+				preliminary
+				
+				
+			</td><td>01/27/2022</td><td><i>Weber</i><br>00-000-0000</td><td>
+				33rd Street and Stephens Avenue<br>
+				Ogden City, UT 84401
+				<br>*SA009-Stephens Avenue Sewer 31st to 33rd*
+			</td><td>B H, INC. dba BHI</td><td>B H, Inc. dba BHI</td><td>Ogden City</td><td>CORE &amp; MAIN LP</td><td><select id="9313007" class="copyTo">Action 1<option selected="true" disabled="true">--Copy To--</option><option value="construction-loan">Construction Loan</option><option value="notice-of-preconstruction-services">Preconstruction Services</option><option value="preliminary-notice">Preliminary Notice</option><option value="intent-to-complete">Intent to Complete</option><option value="remaining-to-complete">Remaining to Complete</option><option value="notice-of-completion">Notice of Completion</option></select></td></tr></tbody></table>
